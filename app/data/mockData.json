@@ -1,0 +1,37 @@
+[
+    {
+        "user_id": "foo2",
+        "device_id": "bar2",
+        "type": "app_launch",
+        "time_stamp": "2021-02-28 16:22:52"   
+    },
+    {
+        "user_id": "foo1",
+        "device_id": "bar1",
+        "type": "training_program_started",
+        "training_program_id": "2352",
+        "training_program_title": "7 Minutes of HIIT Training",
+        "time_stamp": "2021-02-28 16:23:25"
+    },
+    {
+        "user_id": "foo2",
+        "device_id": "bar2",
+        "type": "training_program_started",
+        "training_program_id": "2352",
+        "time_stamp": "2021-02-28 16:52:00"
+    },
+    {
+        "user_id": "foo2",
+        "device_id": "bar2",
+        "type": "training_program_cancelled",
+        "training_program_id": "2352",
+        "time_stamp": "2021-02-28 16:54:21"
+    },
+    {
+        "user_id": "foo1",
+        "device_id": "bar1",
+        "type": "training_program_finished",
+        "training_program_id": "2352",
+        "time_stamp": "2021-02-28 16:59:43"
+    }
+]
